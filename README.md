@@ -16,10 +16,10 @@ PREGUNTAS PARA ANALIZAR
 ¿Cuál es la diferencia entre los ciclistas Ocasionales y Ciclistas Anuales con respecto al tiempo de uso, los días de uso, y los horarios en los cuales estas son usadas?
 
 PREPARAR
+
 ![image](https://github.com/Yeison1973/Data-Anlytics/assets/106216980/381700b2-ec60-4744-9483-605b34b20ea0)
+![image](https://github.com/Yeison1973/Data-Anlytics/assets/106216980/7aae4675-bb03-4c1d-852b-967971c6a3b5)
 ![image](https://github.com/Yeison1973/Data-Anlytics/assets/106216980/72f41050-768c-430c-887c-6487c4f3e880)
-
-
 
 
 
