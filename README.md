@@ -17,6 +17,7 @@ PREGUNTAS PARA ANALIZAR
 
 PREPARAR
 ![image](https://github.com/Yeison1973/Data-Anlytics/assets/106216980/381700b2-ec60-4744-9483-605b34b20ea0)
+![image](https://github.com/Yeison1973/Data-Anlytics/assets/106216980/72f41050-768c-430c-887c-6487c4f3e880)
 
 
 
