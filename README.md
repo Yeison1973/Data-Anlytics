@@ -31,7 +31,6 @@ Finalmente estos datos cumplen con el objetivo de actualidad, ya que son datos q
 
 
 
-
 PROCESAR
 
 Para completar el proceso de los datos es importante confirmar los nombres de las columnas como los formatos de los datos datos y para ello se corre el siguiente código.
