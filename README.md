@@ -32,15 +32,11 @@ Finalmente estos datos cumplen con el objetivo de actualidad, ya que son datos q
 
 
 
-
-
-
-
 PROCESAR
 
 Para completar el proceso de los datos es importante confirmar los nombres de las columnas como los formatos de los datos datos y para ello se corre el siguiente código.
 
-
+![image](https://github.com/Yeison1973/Data-Anlytics/assets/106216980/222e9533-4183-4314-8400-661e6c598131)
 
 
 
